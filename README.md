@@ -7,7 +7,7 @@ You can read the post explaining this project [here]().
 ### 1. Download
 Now, you need the *graphql-django-example* project files in your workspace:
 ```bash
-$ git clone https://github.com/joaorafael/graphql-django-example;
+$ git clone https://github.com/joaorafaelm/graphql-django-example;
 $ cd graphql-django-example;
 ```
 ### 2. Virtualenv
