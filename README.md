@@ -1,7 +1,7 @@
 # GraphQL and Django example
 
 This project is an example of GraphQL and Django, using [graphene-django](https://github.com/graphql-python/graphene-django).
-You can read the post explaining this project [here]().
+You can read the post explaining this project [here](https://joaorafaelm.github.io/blog/graphql-and-django-in-5-minutes).
 
 ## Installation
 ### 1. Download
