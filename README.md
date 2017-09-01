@@ -11,7 +11,7 @@ $ git clone https://github.com/joaorafaelm/graphql-django-example;
 $ cd graphql-django-example;
 ```
 ### 2. Virtualenv
-We're going to use a virtual environment to easily manage dependencies for this demo. If you're not yet familiar with virtual environments for Python, using [virtualenv](http://www.virtualenv.org/), take a moment to learn about them. If you're already familiar with the concep, create one for the project:
+We're going to use a virtual environment to easily manage dependencies for this demo. If you're not yet familiar with virtual environments for Python, using [virtualenv](http://www.virtualenv.org/), take a moment to learn about them. If you're already familiar with the concept, create one for the project:
 ```bash
 $ virtualenv venv;
 $ source venv/bin/activate;
@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 ```bash
 ./manage.py loaddata books.json
 ```
-If you wish to add more data, run `./manage.py createsuperuser`, and you can use the admin interface.
+If you wish to add more data, run `./manage.py createsuperuser`, and you can use the admin interface, at ```/admin```, after the ```runserver``` step below.
 
 ### 4. Ready? Go!
 ```bash
